@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 
-# commit message coment test
 
 def main():
     # x and y coordinates of each data point
@@ -28,6 +27,6 @@ def main():
     plt.show()
 
 
-# calling maing function
+# calling main function
 if __name__ == '__main__':
     main()
